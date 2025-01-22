@@ -2,4 +2,6 @@
 
 
 
-echo "hello";
+
+
+print_r([]);
